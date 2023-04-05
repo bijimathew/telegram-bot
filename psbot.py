@@ -21,7 +21,7 @@ def help(message):
     bot.reply_to(message, help_text)
 @bot.message_handler(commands=['about'])
 def about(message):
-    about_text= "this group is just for information purpose only \n stay safe stay healthy Make sure you subsribe psgenshin_ youtube channel"
+    about_text= "this group is just for information purpose only \nstay safe stay healthy Make sure you subsribe psgenshin_ youtube channel"
     bot.reply_to(message,about_text)
 #  /files command
 # define a function for the /file command
