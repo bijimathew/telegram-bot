@@ -2,7 +2,7 @@ import telebot
 import telegram
 
 # token taken by botfather from telegram    
-TOKEN = '6147019965:AAEnRpWt6SrO5dLGQWy6oK-1txQkIX7yqAc'
+TOKEN = '//telegram token ID\\ EX: 6WW89965:ADFDSFDSSrO5dLGQWyFSDFDAc'
 bot = telebot.TeleBot(TOKEN)
 
 # function for the /start command
